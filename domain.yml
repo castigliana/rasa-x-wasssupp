@@ -1033,8 +1033,596 @@ intents:
   - why
 responses:
   utter_DujDtaQr:
-    - metadata: null
-      text: bubu
+  utter_-DujDtaQr:
+    - image: >-
+        https://skyschools.org/wp-content/uploads/2020/06/green-research-depression-stress.png
+  utter_0HMv3E0lp:
+      quick_replies:
+        - payload: '/joke{"":""}'
+          title: Tell me a joke
+          type: postback
+        - payload: /music
+          title: Listen to some music
+          type: postback
+      text: I can cheer you up. Choose what you want to do next
+  utter_1e581hboi:
+      text: >-
+        Research from Harvard, Yale & Stanford shows that SKY Meditation is the
+        only program to show significant improvement across 6 measures of
+        well-being
+  utter_1tCvKIpqZ:
+      text: Bye
+  utter_2Vz7Ym2Ml:
+      text: >-
+        Participants who practiced SKY Breath Meditation experienced the
+        greatest **mental health**, **social connectedness**, **positive
+        emotions**, **reduced stress levels, depression**, and **mindfulness
+        benefits**.
+  utter_3mSjuBBXg:
+      text: I'm outside form 2
+  utter_5ZMUVKDBz:
+      text: Welcome!
+  utter_6oL6NLH6q:
+      text: don't know how to play
+  utter_7q2ZSc0wM:
+      text: >-
+        It is a LIVE ONLINE 3-day course with a **certified instructor** to drop
+        stress and anxiety in only 3 days!
+
+
+        You’ll gain a **life-transforming breathwork** technique backed by over
+        **100+ independent studies** you can practice anytime you need.
+
+
+        Using the science of breath, you can **raise your energy**, **manage
+        your emotions**, and **find lasting ease**...so you’re ready to face
+        your day. Every day.
+  utter_AAd8mBacO:
+      text: >-
+        I can help you with that.
+
+
+        If you are interested in a scholarship, please provide some additional
+        information.
+  utter_BL4P9ZzNB:
+      text: |-
+        Thank you.
+
+        Great News! We will be able to offer a scholarship
+  utter_CzpzxTqaN:
+      text: >-
+        Meditation offers innumerable benefits for your body, mind and spirit.
+        The rest you gain in meditation is deeper than the deepest sleep. The
+        deeper your rest, the more dynamic your activity is.
+  utter_DF__aWt5M:
+      text: >-
+        Research from Harvard, Yale & Stanford shows that SKY Meditation is the
+        only program to show significant improvement across 6 measures of
+        well-being: !!!
+
+
+        **Stress, Depression, Mental Health, Social Connectedness, Positive
+        Emotion and Mindfulness**.
+
+
+        The **Mindfulness** (MBSR) group did not show any significant changes.
+  utter_NSfT8viOG:
+      quick_replies:
+        - title: PST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?timeZoneFilter=%7B%22name%22%3A%22Pacific%22%2C%22value%22%3A%22PST%22%7D&courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D
+        - title: EST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Eastern%22%2C%22value%22%3A%22EST%22%7D
+        - title: CST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Central%22%2C%22value%22%3A%22CST%22%7D
+        - title: MT
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Mountain%22%2C%22value%22%3A%22MST%22%7D
+        - title: Hawaii
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Hawaii%22%2C%22value%22%3A%22HST%22%7D
+      text: What time zone are you in?
+  utter_PXBM_nC9F:
+      text: >-
+        There is a connection between the breath and emotions
+
+
+        Have you noticed how you breath when you are angry or sad?
+
+
+        There is a two way street. Through breath you can influence how you
+        feel, your mind
+
+
+        We use only 30% of lung capacity
+
+
+        90% of nutrition comes from breath
+
+
+        90% of toxins are eliminated through breath
+  utter_Q2n0XuA0o:
+      text: >-
+        Learn more information about Sahaj Samadhi Meditation
+        [here](https://www.artofliving.org/us-en/sahaj-samadhi-meditation)
+  utter_TEZ7u-FQ3:
+      text: Anything else I can help you with?
+  utter_UqjeP9kb4:
+    - image: >-
+        https://d9hhrg4mnvzow.cloudfront.net/event.us.artofliving.org/us-en/research/aa6828f1-infographics-1-yale-1_10id0xz0gz0b900t0fo000.png
+  utter_YOnk4IJFa:
+      text: >-
+        Sahaj Samadhi Meditation is best for your condition
+
+
+        Learn more information about Sahaj Samadhi Meditation
+        [here](https://www.artofliving.org/us-en/sahaj-samadhi-meditation)
+  utter_YuNNhNbsU:
+      text: Anything I can help you with?
+  utter__Pboxoyeb:
+    - custom:
+        attachment:
+          payload:
+            src: >-
+              https://player.vimeo.com/video/554151251?title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&autoplay=1&controls=1&player_id=0&app_id=58479/embed
+            title: Double click on video for full screen
+          type: video
+        text: Are you enjoying the meditation?
+  utter__eXjuFBsM:
+      text: You can call 800.000.0000 to connect to an instructor
+  utter_ask_afford_amount:
+      text: How much you can afford?
+  utter_ask_amount-of-money:
+      text: How much can you afford?
+  utter_ask_appointment:
+      quick_replies:
+        - payload: /affirm
+          title: 'yes'
+          type: postback
+      text: Would you like to talk to an instructor ?
+  utter_ask_breath_anxious:
+      quick_replies:
+        - payload: /inform
+          title: Quick
+          type: postback
+        - payload: /inform
+          title: Shallow
+          type: postback
+      text: How do you breath when fearful
+  utter_ask_breath_experience:
+    - custom:
+        attachment:
+          payload:
+            src: >-
+              https://player.vimeo.com/video/484245991?title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&autoplay=1&controls=1&player_id=0&app_id=58479/embed
+            title: Double click on video for full screen
+          type: video
+        text: Are you enjoying the breath technique?
+  utter_ask_breath_feedback:
+    - buttons:
+        - payload: /inform
+          title: Good
+          type: postback
+        - payload: /inform
+          title: Energized
+          type: postback
+        - payload: /inform
+          title: I felt some tingling inside
+          type: postback
+      text: How was your experience?
+  utter_ask_breath_pattern:
+      quick_replies:
+        - payload: /inform
+          title: Fast
+          type: postback
+        - payload: /inform
+          title: Slow
+          type: postback
+      text: |-
+        There is a connection between the breath and emotions.
+        How do you breath when angry?
+  utter_ask_breath_pattern_angry:
+      quick_replies:
+        - payload: /inform
+          title: Fast
+          type: postback
+        - payload: /inform
+          title: Slow
+          type: postback
+      text: |-
+        There is a connection between breath and mind.
+        How do you breath when angry?
+  utter_ask_capture_lead:
+      text: What is your first name?
+  utter_ask_connect_live:
+      text: Anything else I can help you with?
+  utter_ask_edwedfewdf:
+    - custom: {}
+  utter_ask_email:
+      text: What is your email?
+  utter_ask_financial_situation:
+      text: Please describe your current financial situation
+  utter_ask_first_name:
+      text: What is your first name?
+  utter_ask_gain:
+    - elements:
+        - buttons:
+            - payload: '/gain{"gain":"relaxation"}'
+              title: Relaxation
+              type: postback
+            - payload: '/gain{"gain":"focus"}'
+              title: Better Focus
+              type: postback
+          default_action: null
+          image_url: >-
+            https://www.skipprichard.com/wp-content/uploads/2020/01/kate-stone-matheson-uy5t-CJuIK4-unsplash-1080x675.jpg
+          subtitle: ''
+          title: I want
+        - buttons:
+            - payload: '/gain{"gain":"peace"}'
+              title: Peace of Mind
+              type: postback
+            - payload: '/gain{"gain":"happiness"}'
+              title: Happiness
+              type: postback
+          default_action: null
+          image_url: >-
+            https://specials-images.forbesimg.com/imageserve/606f84ec8bd34da6c1b3cff2/960x0.jpg?fit=scale
+          subtitle: ''
+          title: I want
+  utter_ask_gain_slot:
+    - elements:
+        - buttons:
+            - payload: '/gain{"gain_slot":"peace"}'
+              title: Peace of Mind
+              type: postback
+            - payload: '/gain{"gain_slot":"sleep"}'
+              title: Better Sleep
+              type: postback
+            - payload: '/gain{"gain_slot":"relaxation"}'
+              title: Relaxation
+              type: postback
+          default_action: null
+          image_url: >-
+            https://specials-images.forbesimg.com/imageserve/606f84ec8bd34da6c1b3cff2/960x0.jpg?fit=scale
+          subtitle: ''
+          title: I would like to gain
+        - buttons:
+            - payload: '/gain{"gain_slot":"happiness"}'
+              title: Happiness
+              type: postback
+            - payload: '/gain{"gain_slot":"focus"}'
+              title: Better Focus
+              type: postback
+            - payload: '/gain{"gain_slot":"productive"}'
+              title: Productive
+              type: postback
+          default_action: null
+          image_url: >-
+            https://www.skipprichard.com/wp-content/uploads/2020/01/kate-stone-matheson-uy5t-CJuIK4-unsplash-1080x675.jpg
+          subtitle: ''
+          title: I would like to gain
+        - buttons:
+            - payload: '/gain{"gain_slot":"otherg"}'
+              title: Something else
+              type: postback
+          default_action: null
+          image_url: >-
+            https://climateinvestigations.org/wp-content/uploads/2018/09/something-else-strategies.jpg
+          subtitle: ''
+          title: I would like to gain
+  utter_ask_impact:
+      text: >2-
+         The SKY Breath meditation is a 3 day course, 3 hours each day over the weekend.
+
+         You get to learn a **powerful technique**.
+
+         The cost is $190 for a **limited time**.
+
+         * **home practice for life**
+         * **community support** through group practice
+        * **live & interactive sessions** by professional trainers
+
+
+        What positive impact will you have in your life if you feel this **calm
+        and peace every day of your life**?
+  utter_ask_insight:
+      text: ''
+  utter_ask_installment:
+      quick_replies:
+        - payload: '/basics.yes{"installment":"true"}'
+          title: 'Yes'
+          type: postback
+        - payload: '/basics.no{"installment":"false"}'
+          title: 'No'
+          type: postback
+      text: Would you be able to pay the rest in installments?
+  utter_ask_interest:
+      quick_replies:
+        - payload: '/signup{"interest":"signup"}'
+          title: Sign me up!
+          type: postback
+        - payload: '/later{"interest":"later"}'
+          title: 'in future or when planets are aligned :-)'
+          type: postback
+        - payload: '/not.interested{"interest":"cold"}'
+          title: 'better for my spouse or neighbor :-)'
+          type: postback
+      text: >-
+        When we talk about the course we meet 3 types of people. Which one do
+        you belong to?
+  utter_ask_interested_testimonial:
+      quick_replies:
+        - payload: '/basics.yes{"interested_testimonial":"true"}'
+          title: 'yes'
+          type: postback
+        - payload: '/basics.no{"interested_testimonial":"false"}'
+          title: 'no'
+          type: postback
+      text: Would you like to see what others think about SKY breath?
+  utter_ask_meditation_experience:
+    - custom:
+        attachment:
+          payload:
+            src: >-
+              https://player.vimeo.com/video/554151251?title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&autoplay=1&controls=1&player_id=0&app_id=58479/embed
+            title: Double click on video for full screen
+          type: video
+        text: Are you enjoying the meditation?
+  utter_ask_meditation_feedback:
+      quick_replies:
+        - payload: '/meditation.feedback{"meditation_feedback":"great"}'
+          title: Relaxed
+          type: postback
+        - payload: '/meditation.feedback{"meditation_feedback":"good"}'
+          title: Less Thoughts
+          type: postback
+        - payload: '/meditation.feedback{"meditation_feedback":"thought bothered"}'
+          title: Thoughts bothered me
+          type: postback
+      text: How was the meditation?
+  utter_ask_number_installments:
+      quick_replies:
+        - payload: '/inform{"number_installments":"1"}'
+          title: '1'
+          type: postback
+        - payload: '/inform{"number_installments":"2"}'
+          title: '2'
+          type: postback
+        - payload: '/inform{"number_installments":"3"}'
+          title: '3'
+          type: postback
+      text: How many monthly installments
+  utter_ask_other_reason:
+      text: What is the reason then?
+  utter_ask_perform_testimonial:
+    - custom:
+        attachment:
+          payload:
+            src: >-
+              https://player.vimeo.com/video/554151811?title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&autoplay=1&controls=1&player_id=0&app_id=58479/embed
+            title: Double click on video for full screen
+          type: video
+        text: Was the testimonial impactful?
+  utter_ask_phone:
+      text: What is your
+  utter_ask_present_course:
+      text: >-
+        The SKY Breath meditation is a 3 day course, 3 hours each day over the
+        weekend.
+
+        You get to learn a powerful technique.
+
+        The cost is $190 for a limited time.
+
+        You will learn a home practice for life and community support by getting
+        to practice the techniques in a group setting online.
+
+        What positive impact will you have in your life if you feel this calm
+        and peace every day?
+  utter_ask_reason:
+      quick_replies:
+        - payload: '/reason{"reason":"stress"}'
+          title: Stress
+          type: postback
+        - payload: '/reason{"reason":"anxiety"}'
+          title: Anxiety
+          type: postback
+        - payload: '/reason{"reason":"sleep"}'
+          title: Can't Sleep
+          type: postback
+        - payload: '/reason{"reason":"depression"}'
+          title: Depression
+          type: postback
+        - payload: '/reason{"reason":"health"}'
+          title: Health
+          type: postback
+        - payload: '/reason{"reason":"focus"}'
+          title: Can't Focus
+          type: postback
+      text: >-
+        To help you find if SKY meditation is for you, please pick the main
+        motivator or enter it below
+  utter_ask_reason_slot:
+    - buttons:
+        - payload: '/reason{"reason_slot":"stress"}'
+          title: Stress
+          type: postback
+        - payload: '/reason{"reason_slot":"anxiety"}'
+          title: Anxiety
+          type: postback
+        - payload: '/reason{"reason_slot":"otherv"}'
+          title: Depression
+          type: postback
+        - payload: '/reason{"reason_slot":"thoughts"}'
+          title: Too Many Thoughts
+          type: postback
+        - payload: '/reason{"reason_slot":"attention"}'
+          title: Attention Issues
+          type: postback
+        - payload: '/reason{"reason_slot":"anger"}'
+          title: Anger Issues
+          type: postback
+        - payload: '/reason{"slot_reason":"health"}'
+          title: Health
+          type: postback
+      text: >-
+        To help you find if SKY meditation is for you, please pick the main
+        motivator or enter it below
+  utter_ask_sasddwedwedw:
+      text: ''
+  utter_ask_save_lead:
+      quick_replies:
+        - payload: '/basics.yes{"save_lead":"true"}'
+          title: 'yes'
+          type: postback
+        - payload: '/basics.no{"save_lead":"false"}'
+          title: 'no'
+          type: postback
+      text: Would you like to leave your contact info to be in touch?
+  utter_ask_see_courses:
+      text: ''
+  utter_ask_stress_cause:
+    - buttons:
+        - payload: '/inform{"stress_cause":"relationships"}'
+          title: Relationships
+          type: postback
+        - payload: '/inform{"stress_cause":"work"}'
+          title: Work
+          type: postback
+        - payload: '/inform{"stress_cause":"finances"}'
+          title: Finances
+          type: postback
+        - payload: '/inform{"stress_cause":"health"}'
+          title: Health
+          type: postback
+      text: What causes stress in your life?
+  utter_ask_timezone:
+      quick_replies:
+        - title: PST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?timeZoneFilter=%7B%22name%22%3A%22Pacific%22%2C%22value%22%3A%22PST%22%7D&courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D
+        - title: EST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Eastern%22%2C%22value%22%3A%22EST%22%7D
+        - title: CST
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Central%22%2C%22value%22%3A%22CST%22%7D
+        - title: MT
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Mountain%22%2C%22value%22%3A%22MST%22%7D
+        - title: Hawaii
+          type: web_url
+          url: >-
+            https://members.us.artofliving.org/?courseTypeFilter=%7B%22name%22%3A%22SKY+Breath+Meditation%22%2C%22value%22%3A%2212371%3B811569%3B435714%22%7D&timeZoneFilter=%7B%22name%22%3A%22Hawaii%22%2C%22value%22%3A%22HST%22%7D
+      text: Which time zone are you in?
+  utter_ask_want_breath_experience:
+    - buttons:
+        - payload: '/basics.yes{"want_breath_experience":"true"}'
+          title: 'yes'
+          type: postback
+        - payload: '/basics.no{"want_breath_experience":"false"}'
+          title: 'no'
+          type: postback
+      text: |-
+        There is a link between breath and mind
+        How we breath influences how we feel
+
+        Would you like to experience a powerful breathing technique?
+  utter_ask_want_meditation_experience:
+    - buttons:
+        - payload: '/basics.yes{"want_meditation_experience":"true"}'
+          title: 'yes'
+          type: postback
+        - payload: '/basics.no{"want_meditation_experience":"false"}'
+          title: 'no'
+          type: postback
+      text: Would you like to experience a unique meditation?
+  utter_ask_want_talk:
+      quick_replies:
+        - payload: '/basics.yes{"want_talk":"true"}'
+          title: 'yes'
+          type: postback
+        - payload: '/basics.no{"want_talk":"false"}'
+          title: 'no'
+          type: postback
+      text: Would you like to talk to an instructor?
+  utter_dJXwSHqWf:
+      text: I'm outside form 3
+  utter_dcotSZ6n_:
+      text: what else I can help you today?
+  utter_default:
+      text: Sorry I didn't get that. Can you rephrase?
+  utter_disambiguation:
+      quick_replies:
+        - payload: /reach_agent
+          title: Something else
+          type: postback
+      text: 'Sorry, was that about'
+  utter_dlTQI2eOY:
+      text: Sahaj Samadhi Meditation is best for your condition
+  utter_ehk_YFoIf:
+      text: >-
+        It is a LIVE ONLINE 3-day course with a **certified instructor** to drop
+        stress and anxiety in only 3 days!
+  utter_fggBuBuQT:
+      text: What else I can help you today after talking to human?
+  utter_heGtgVTTfm:
+      text: >-
+        I thought you might want to reflect about what is important in your
+        life, but is up to you
+  utter_hi:
+      text: Hi!
+  utter_i1Qif8PaB:
+      text: You can call 800.000.0000 to connect to an instructor
+  utter_invalid_email:
+      text: Please enter a valid email address
+  utter_invalid_first_name:
+      text: I was expecting a longer first name
+  utter_invalid_number_installments:
+      text: Please enter a valid number
+  utter_kAks2vC68:
+      text: You can call 800.000.0000 to connect to an instructor.
+  utter_lU5OY_t7h:
+      text: handle different
+  utter_lpWrsCJ7h:
+      text: Is there anything else I can help you with?
+  utter_mrSkN0Rfd:
+      text: >-
+        SKY Breath can help reduce the level of sugar in the blood, along with
+        lowering blood pressure, and reducing the symptoms.
+
+
+        Practicing daily SKY Breath  Meditation can help reduce stress in the
+        mind and body. This, in turn, reduces glucagons and can also help
+        improve insulin action.
+  utter_s6ck4g2hG:
+      text: this my not so good joke
+  utter_tNVAXLyjC:
+    - image: 'https://skyschools.org/wp-content/uploads/2020/06/key-findings.png'
+  utter_valid_email:
+      text: Thank you
+  utter_valid_timezone:
+      text: Thank you
+  utter_yg3mdJIDX:
+      text: Thank you. We will contact you with next steps
+  utter_zV8o1XCz3:
+      text: >-
+        Participants who practiced SKY Breath Meditation experienced the
+        greatest **mental health**, **social connectedness**, **positive
+        emotions**, **reduced stress levels, depression**, and **mindfulness
+        benefits**.
 session_config: {}
 slots:
   afford_amount:
