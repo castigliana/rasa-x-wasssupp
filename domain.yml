@@ -1032,9 +1032,8 @@ intents:
   - wassup.sad
   - why
 responses:
-  utter_-DujDtaQr:
-    - language: en
-      metadata: null
+  utter_DujDtaQr:
+    - metadata: null
       text: bubu
 session_config: {}
 slots:
