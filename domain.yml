@@ -1033,8 +1033,9 @@ intents:
   - why
 responses:
   utter_-DujDtaQr:
-    - text: "https://skyschools.org/wp-content/uploads/2020/06/green-research-depression-stress.png"
-      language: en
+    - language: en
+      metadata: null
+      text: bubu
 session_config: {}
 slots:
   afford_amount:
