@@ -1032,7 +1032,6 @@ intents:
   - wassup.sad
   - why
 responses:
-  utter_DujDtaQr:
   utter_-DujDtaQr:
     - image: >-
         https://skyschools.org/wp-content/uploads/2020/06/green-research-depression-stress.png
