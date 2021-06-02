@@ -9,7 +9,7 @@ pipeline:
   - name: DIETClassifier
     epochs: 200
   - name: DucklingEntityExtractor
-    url: 'http://duckling:8000'
+    url: 'http://18.221.173.66:8000'
     locale: en_US
     dimensions:
       - email
@@ -25,10 +25,10 @@ language: en
 
 policies:
   - name: TEDPolicy
-    epochs: 200
+    epochs: 100
     max_history: 30
     constrain_similarities: True
-    model_confidence: cosine
+    model_confidence: softmax
     batch_size:
       - 32
       - 64
